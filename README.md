@@ -1,2 +1,2 @@
 # Digital-Clock
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
